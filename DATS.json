@@ -1,0 +1,345 @@
+{
+  "title": "Ontario Neurodegenerative Disease Research Initiative (ONDRI): Foundational Study Baseline Data - Release 1",
+  "description": "Dr. Mario Masellis, Dr. Douglas Munoz, Dr. Michael Strong, Dr. Richard Swartz, ONDRI study team | ONDRI's Foundational Study includes data from 520 people living with Alzheimer's disease, mild cognitive impairment, Parkinson's disease, amyotrophic lateral sclerosis, frontotemporal dementia, or cerebrovascular disease, along with their care partners.  Detailed clinical, cognitive, genetic, gait, balance, eye tracking, retinal imaging, and neuroimaging assessments were performed that enable multi-modality within- and cross-disease analyses.  Data were collected from 2014-18; then standardized, cleaned, and curated to facilitate open access and sharing.",
+  "dates": [
+    {
+      "date": "2014-07-07 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2018-03-31 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "dementia"
+      }
+    },
+    {
+      "information": {
+        "value": "Alzheimer disease"
+      }
+    },
+    {
+      "information": {
+        "value": "Mild cognitive impairment"
+      }
+    },
+    {
+      "information": {
+        "value": "amyotrophic lateral sclerosis"
+      }
+    },
+    {
+      "information": {
+        "value": "Parkinson disease"
+      }
+    },
+    {
+      "information": {
+        "value": "Neurodegenerative disease"
+      }
+    },
+    {
+      "information": {
+        "value": "cerebrovascular disorder"
+      }
+    },
+    {
+      "information": {
+        "value": "Clinical studies"
+      }
+    },
+    {
+      "information": {
+        "value": "Cognitive assessment"
+      }
+    },
+    {
+      "information": {
+        "value": "cognitive disorder"
+      }
+    },
+    {
+      "information": {
+        "value": "Neuroimaging"
+      }
+    },
+    {
+      "information": {
+        "value": "Neuropsychological assessment"
+      }
+    },
+    {
+      "information": {
+        "value": "caregiver"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "PDF",
+        "CSV",
+        "TXT"
+      ],
+      "size": 11,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "identifier": {
+        "identifier": "10.1002/alz.12632",
+        "identifierSource": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12632"
+      },
+      "title": "Characteristics of the Ontario Neurodegenerative Disease Research Initiative cohort",
+      "dates": [
+        {
+          "type": {
+            "value": "primary reference publication date"
+          },
+          "date": "2022-03-30 00:00:00"
+        }
+      ],
+      "publicationVenue": "Alzheimer's & Dementia",
+      "authors": [
+        {
+          "fullName": "",
+          "firstName": "Kelly M.",
+          "lastName": "Sunderland",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Ontario Neurodegenerative Disease Research Initiative participants, their study partners, and their families"
+        },
+        {
+          "name": "Government of Ontario"
+        },
+        {
+          "name": "The Temerty Family Foundation"
+        },
+        {
+          "name": "Participating hospital and research institute foundations, including the Baycrest Foundation, Bruyère Research Institute, Centre for Addiction and Mental Health Foundation, London Health Sciences Foundation, McMaster University Faculty of Health Sciences, Ottawa Brain and Mind Research Institute, Queen's University Faculty of Health Sciences, Providence Care (Kingston), Sunnybrook Health Sciences Foundation, St. Michael's Hospital, the Thunder Bay Regional Health Sciences Centre, the University of Ottawa Faculty of Medicine, and the Windsor/Essex County ALS Association."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "dementia"
+    },
+    {
+      "value": "Alzheimer's disease"
+    },
+    {
+      "value": "amnestic mild cognitive impairment"
+    },
+    {
+      "value": "amyotrophic lateral sclerosis"
+    },
+    {
+      "value": "frontotemporal dementia spectrum disorder"
+    },
+    {
+      "value": "Parkinson's disease"
+    },
+    {
+      "value": "neurodegenerative disease"
+    },
+    {
+      "value": "cerebrovascular disease"
+    },
+    {
+      "value": "vascular cognitive impairment"
+    },
+    {
+      "value": "cohort study"
+    },
+    {
+      "value": "clinical"
+    },
+    {
+      "value": "cognitive"
+    },
+    {
+      "value": "gait and balance"
+    },
+    {
+      "value": "eye tracking"
+    },
+    {
+      "value": "retinal imaging"
+    },
+    {
+      "value": "genetic markers"
+    },
+    {
+      "value": "neuroimaging"
+    },
+    {
+      "value": "neuropsychological assessment"
+    },
+    {
+      "value": "cross-disease"
+    },
+    {
+      "value": "cross-platform"
+    },
+    {
+      "value": "caregiver"
+    },
+    {
+      "value": "deep phenotyping"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": 520
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": 176
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://braincode.ca/sites/default/files/ONDRICube%20(1).png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
