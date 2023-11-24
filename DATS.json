@@ -1,5 +1,5 @@
 {
-  "title": "Ontario Neurodegenerative Disease Research Initiative (ONDRI): Foundational Study Baseline Data - Release 1",
+  "title": "Ontario Neurodegenerative Disease Research Initiative (ONDRI): Foundational Study Longitudinal Data - Release 2.0",
   "description": "Dr. Mario Masellis, Dr. Douglas Munoz, Dr. Michael Strong, Dr. Richard Swartz, ONDRI study team | ONDRI's Foundational Study includes data from 520 people living with Alzheimer's disease, mild cognitive impairment, Parkinson's disease, amyotrophic lateral sclerosis, frontotemporal dementia, or cerebrovascular disease, along with their care partners.  Detailed clinical, cognitive, genetic, gait, balance, eye tracking, retinal imaging, and neuroimaging assessments were performed that enable multi-modality within- and cross-disease analyses.  Data were collected from 2014-18; then standardized, cleaned, and curated to facilitate open access and sharing.",
   "dates": [
     {
@@ -90,9 +90,24 @@
       "information": {
         "value": "caregiver"
       }
+    },
+    {
+      "information": {
+        "value": "Protein"
+      }
+    },
+    {
+      "information": {
+        "value": "PED"
+      }
+    },
+    {
+      "information": {
+        "value": "genotype information"
+      }
     }
   ],
-  "version": "1.0",
+  "version": "2.0",
   "privacy": "controlled",
   "licenses": [
     {
@@ -102,19 +117,19 @@
   "distributions": [
     {
       "formats": [
-        "PDF",
         "CSV",
-        "TXT"
+        "TXT",
+        "NIfTI"
       ],
-      "size": 11,
+      "size": 365,
       "unit": {
-        "value": "MB"
+        "value": "GB"
       },
       "access": {
         "landingPage": "https://www.braincode.ca/",
         "authorizations": [
           {
-            "value": "private"
+            "value": "registered"
           }
         ]
       }
@@ -258,6 +273,15 @@
     },
     {
       "value": "deep phenotyping"
+    },
+    {
+      "value": "genotype information"
+    },
+    {
+      "value": "PED"
+    },
+    {
+      "value": "Protein"
     }
   ],
   "extraProperties": [
@@ -273,7 +297,7 @@
       "category": "files",
       "values": [
         {
-          "value": 176
+          "value": 889
         }
       ]
     },
@@ -321,7 +345,7 @@
       "category": "logo",
       "values": [
         {
-          "value": "ONDRICube.png"
+          "value": "https://braincode.ca/sites/default/files/ONDRICube%20(1).png"
         }
       ]
     },
