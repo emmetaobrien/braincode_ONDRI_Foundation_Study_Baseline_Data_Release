@@ -28,12 +28,14 @@
   "types": [
     {
       "information": {
-        "value": "dementia"
+        "value": "dementia",
+		"valueIRI": "http://uri.interlex.org/ilx_0757644"
       }
     },
     {
       "information": {
-        "value": "Alzheimer disease"
+        "value": "Alzheimer disease",
+		"valueIRI": "http://uri.interlex.org/ilx_0751626"
       }
     },
     {
@@ -43,47 +45,56 @@
     },
     {
       "information": {
-        "value": "amyotrophic lateral sclerosis"
+        "value": "amyotrophic lateral sclerosis",
+		"valueIRI": "http://uri.interlex.org/ilx_0100590"
       }
     },
     {
       "information": {
-        "value": "Parkinson disease"
+        "value": "Parkinson disease",
+		"valueIRI": "http://uri.interlex.org/ilx_0764151"
       }
     },
     {
       "information": {
-        "value": "Neurodegenerative disease"
+        "value": "Neurodegenerative disease",
+		"valueIRI": "http://uri.interlex.org/ilx_0107458"
       }
     },
     {
       "information": {
-        "value": "cerebrovascular disorder"
+        "value": "cerebrovascular disorder",
+		"valueIRI": "http://uri.interlex.org/ilx_0102001"
       }
     },
     {
       "information": {
         "value": "Clinical studies"
+		"valueIRI": "http://uri.interlex.org/ilx_0102254"
       }
     },
     {
       "information": {
-        "value": "Cognitive assessment"
+        "value": "Cognitive assessment",
+		"valueIRI": "http://uri.interlex.org/ilx_0102339"
       }
     },
     {
       "information": {
-        "value": "cognitive disorder"
+        "value": "cognitive disorder",
+		"valueIRI": "http://uri.interlex.org/ilx_0738670"
       }
     },
     {
       "information": {
-        "value": "Neuroimaging"
+        "value": "Neuroimaging",
+		"valueIRI": "http://uri.interlex.org/ilx_0741206"
       }
     },
     {
       "information": {
-        "value": "Neuropsychological assessment"
+        "value": "Neuropsychological assessment",
+		"valueIRI": "http://uri.interlex.org/ilx_0107534"
       }
     },
     {
@@ -93,17 +104,20 @@
     },
     {
       "information": {
-        "value": "Protein"
+        "value": "Protein",
+		"valueIRI": "http://uri.interlex.org/ilx_010945"
       }
     },
     {
       "information": {
-        "value": "PED"
+        "value": "PED file format",
+		"valueIRI": "http://uri.interlex.org/ilx_0778509"
       }
     },
     {
       "information": {
-        "value": "genotype information"
+        "value": "genotype information",
+		"valueIRI": "http://uri.interlex.org/ilx_0784051"
       }
     }
   ],
